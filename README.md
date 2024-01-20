@@ -1,4 +1,4 @@
-# Claire Packages 4.0 Theme
+# Claire Packages 4.0 Theme Development
 ## Cloned Inititally from: Shopify Theme Development Tutorial 2021
 
 [Tutorial Source](https://www.youtube.com/live/ejXm7CMGH6Y?si=8iPUf46LyV_hIwwU)
